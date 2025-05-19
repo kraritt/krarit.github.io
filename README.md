@@ -6,7 +6,7 @@
 
 ![Profile Photo](photo.jpg) <!-- Replace with actual image path -->
 
----
+
 
 ## About Me
 
@@ -17,7 +17,7 @@ I am interested in:
 - Semantic map models
 - AI interpretability for LLMs
 
----
+
 
 ## News
 
