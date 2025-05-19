@@ -7,7 +7,6 @@
 ![Profile Photo](photo.jpg) <!-- Replace with actual image path -->
 
 
-
 ## About Me
 
 I am a Ph.D. candidate in the School of Humanities at Tsinghua University. My major is computational linguistics, combining artificial intelligence and natural languages.
@@ -16,7 +15,6 @@ I am interested in:
 - Computational lexical semantics (including polysemy, ambiguity and uncertainty)
 - Semantic map models
 - AI interpretability for LLMs
-
 
 
 ## News
